@@ -1,0 +1,9 @@
+Pedido 
+Detalle de pedido 
+| Codigo | nombre 			 | cantidad | precio | subtotal | subtotal pv |
+| FB147  | Lignzhi Black Coffe 		| 2 	 | 320 | 640 | 9.2 | 
+-----------------------------------
+
+TOTAL PRECIO FINAL: $640.00
+TOTAL PV FINAL: 9.20
+-----------------------------------
